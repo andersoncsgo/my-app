@@ -11,7 +11,7 @@ function MinhaRotina() {
         <h2><strong>Anderson Lucas</strong></h2>
         <img src="https://christianosantos.com/files/cs1/avatar-homem.jpg" alt="" />
         <p>
-        Minha rotina diária começa com uma sessão de exercícios na academia, o que me ajuda a manter a saúde e a energia ao longo do dia. Depois, trabalho no meu projeto de programação, focando em aprimorar minhas habilidades em Java e banco de dados. Durante a tarde, continuo estudando Java e explorando técnicas avançadas de banco de dados. No final do dia, gosto de relaxar jogando ou aprendendo algo novo.
+        Minha rotina diária começa com uma sessão de exercícios na <strong>academia</strong>, o que me ajuda a manter a saúde e a energia ao longo do dia. Depois, trabalho no meu projeto de programação, focando em aprimorar minhas habilidades em Java e banco de dados. Durante a tarde, continuo estudando Java e explorando técnicas avançadas de banco de dados. No final do dia, gosto de relaxar jogando ou aprendendo algo novo.
         </p>
         <video width="320" height="240" controls>
           <source src="https://www.w3schools.com/tags/movie.mp4" type="video/mp4" />
